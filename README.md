@@ -21,11 +21,11 @@ To get started with this project, you can clone this repository by running the f
 
 ```bash
 
-git clone https://github.com/Killercavin/SafaricomKE.git
+git clone https://github.com/Killercavin/safaricom-ke.git
 
-git clone git@github.com:Killercavin/SafaricomKE.git
+git clone git@github.com:Killercavin/safaricom-ke.git
 
-cd SafaricomKE
+cd safaricom-ke
 
 ```
 
